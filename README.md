@@ -1,1 +1,3 @@
-img/imgcdados.png
+<p align="center">
+  <img src="imgcdados.png" >
+</p>
